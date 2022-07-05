@@ -1,0 +1,17 @@
+{
+  "name": "net.narazaka.unity.bone-tools.bone-selector",
+  "version": "1.0.0",
+  "displayName": "BoneSelector",
+  "description": "SkinnedMesh Bone Selector",
+  "author": {
+    "name": "Narazaka",
+    "url": "https://github.com/Narazaka"
+  },
+  "license": "Zlib",
+  "type": "tool",
+  "url" : "https://github.com/Narazaka/BoneSelector.git#v1.0.0",
+  "legacyFiles": {
+    "Assets\\Narazaka\\Unity\\Editor\\Util\\BoneReference.cs": "cdafdae082d25e34eb77aa1d2ecc2c28",
+    "Assets\\Narazaka\\Unity\\Editor\\Util\\BoneSelector.cs": "bc4f578c8c7ba1449aae54940b3603bc"
+  }
+}
